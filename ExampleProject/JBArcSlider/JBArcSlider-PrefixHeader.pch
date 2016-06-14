@@ -1,0 +1,16 @@
+//
+//  JBArcSlider-PrefixHeader.pch
+//  JbArcSlider
+//
+//  Created by Bhavesh Patel on 13/06/16.
+//  Copyright (c) 2016 Bhavesh Patel. All rights reserved.
+//
+#import <Availability.h>
+#ifndef JbArcSlider_JBArcSlider_PrefixHeader_pch
+#define JbArcSlider_JBArcSlider_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#endif
