@@ -1,18 +1,13 @@
 JBArcSlider
 ================
 
-An extensible Arc slider for iOS applications. if you are looking for circuler slider visit EFCirculerSlider.
+An extensible Arc slider for iOS applications. if you are looking for circuler slider visit EFCirculerSlider https://github.com/eliotfowler/EFCircularSliderss .
 
 Demo
 ----
 
 The code to use this control is in the `ExampleProject/` directory:
 
-
-```ruby
-platform :ios, '7.0'
-pod "JBArcSlider", "~> 0.1.0"
-```
 
 You could instead clone the project and copy the JBArcSlider/JBArcSlider.{h,m} files into your project.
 
@@ -171,7 +166,7 @@ NSArray* hoursArray = @[@"1", @"2", @"3", @"4", @"5", @"6", @"7", @"8", @"9", @"
 About the developer
 -------------------
 
-If you like this control, [follow @bnp1711 on twitter] or [http://www.facebook.com/it4ufriends] on Facebook and let me know!
+If you like this control, [follow @bnp1711 on twitter] or [http://www.facebook.com/its4ufriends] on Facebook and let me know!
 
 And also thanks to the developer who inspired me to make this control, Eliot Fowler [follow @EliotFowler](http://www.twitter.com/eliotfowler) on Twitter, Thank you buddy!!
 
