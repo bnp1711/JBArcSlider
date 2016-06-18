@@ -1,7 +1,7 @@
 JBArcSlider
 ================
 
-An extensible Arc slider for iOS applications. if you are looking for circuler slider visit EFCirculerSlider.
+An extensible Arc slider for iOS applications. if you are looking for circuler slider visit <a href="https://github.com/eliotfowler/EFCircularSlider">EFCirculerSlider</a>.
 
 Demo
 ----
@@ -171,7 +171,7 @@ NSArray* hoursArray = @[@"1", @"2", @"3", @"4", @"5", @"6", @"7", @"8", @"9", @"
 About the developer
 -------------------
 
-If you like this control, [follow @bnp1711 on twitter] or [http://www.facebook.com/it4ufriends] on Facebook and let me know!
+If you like this control, [follow @bnp1711 on twitter] or [http://www.facebook.com/its4ufriends] on Facebook and let me know!
 
 And also thanks to the developer who inspired me to make this control, Eliot Fowler [follow @EliotFowler](http://www.twitter.com/eliotfowler) on Twitter, Thank you buddy!!
 
