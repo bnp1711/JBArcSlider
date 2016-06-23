@@ -10,11 +10,11 @@ The code to use this control is in the `ExampleProject/` directory:
 
 
 ```ruby
-platform :ios, '7.0'
-pod "JBArcSlider", "~> 0.1.0"
+```platform :ios, '7.0'
+```pod "JBArcSlider", "~> 0.1.0"
 ```
 
-You could instead clone the project and copy the JBArcSlider/JBArcSlider.{h,m} files into your project.
+You can clone the project and copy the JBArcSlider/JBArcSlider.{h,m} files into your project.
 
 
 Initialization
